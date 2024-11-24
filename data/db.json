@@ -2,7 +2,7 @@
   "users": [
     {
       "id": 1,
-      "usuario": "John Doe",
+      "user": "John Doe",
       "email": "john.due@gmail.com"
     }
   ],
@@ -166,15 +166,6 @@
       "alter_ego": "Norrin Radd",
       "first_appearance": "The Fantastic Four #48",
       "characters": "Norrin Radd"
-    },
-    {
-      "id": "rKKer91",
-      "superhero": "Starfire",
-      "publisher": "DC Comics",
-      "alter_ego": "starfire",
-      "first_appearance": "1980",
-      "characters": "star",
-      "alt_img": "https://imgs.search.brave.com/nxM9VyoqgMTiF3HLa4900Y2xi9gXSDpxriemkG4pkhs/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pLnBp/bmltZy5jb20vb3Jp/Z2luYWxzLzFlLzNh/LzcyLzFlM2E3MmJh/MjI3YmI1YTQzYzVk/MmQ1YzBhNzcyOGY3/LmpwZw"
     }
   ]
 }
